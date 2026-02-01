@@ -1,4 +1,6 @@
 # discordless-HTMemL
+> Note: discordless-HTMemL has been merged in the[upstream discordless repository](https://github.com/Roachbones/discordless). Development will continue there.
+
 A memory-optimized HTML exporter for [discordless](https://github.com/Roachbones/discordless).
 
 ## Dependencies
